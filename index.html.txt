@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Swaraj Deshmukh | Portfolio</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Hi, I'm Swaraj Deshmukh</h1>
+    <p>NEET Aspirant | Learner | Content Creator</p>
+  </header>
+
+  <section>
+    <h2>About Me</h2>
+    <p>I’m passionate about science, fitness, and self-growth. I share study motivation and educational content on YouTube.</p>
+  </section>
+
+  <section>
+    <h2>Contact</h2>
+    <p>Email: <a href="mailto:swarajnxt@gmail.com">swarajnxt@gmail.com</a></p>
+  </section>
+
+  <footer>
+    <p>© 2025 Swaraj Deshmukh</p>
+  </footer>
+</body>
+</html>
